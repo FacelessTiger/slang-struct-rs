@@ -1,9 +1,10 @@
 [package]
 name = "slang_struct"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 license = "MIT"
 description = "Macro that converts Slang style struct definitions into rust structs"
+repository = "https://github.com/FacelessTiger/slang-struct-rs"
 
 [lib]
 proc-macro = true
